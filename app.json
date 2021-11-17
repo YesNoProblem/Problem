@@ -1,0 +1,16 @@
+{
+  "name": "YesNoProblem",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "3a53a3e5-da83-48d2-aee9-d88a498eb9dd"
+    }
+  },
+  "website": "https://github.com/YesNoProblem/",
+  "repository": "https://github.com/YesNoProblem/Problem",
+  "stack": "container"
+}
